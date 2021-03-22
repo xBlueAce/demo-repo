@@ -55,3 +55,12 @@ now ther are ready to be commited
 to push into 
 
 
+
+
+
+
+
+## local development
+
+->git branch to see the branches
+git checkout *name *
