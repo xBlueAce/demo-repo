@@ -58,3 +58,12 @@ Screen Shot 2021-03-22 at 3.17.52 PM![image](https://user-images.githubuserconte
 to push into 
 
 
+
+
+
+
+
+## local development
+
+->git branch to see the branches
+git checkout *name *
