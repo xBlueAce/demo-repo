@@ -29,7 +29,8 @@ to save to commit
 // as "untracked files"
 
 
-*insert photo here*
+Screen Shot 2021-03-22 at 3.11.38 PM![image](https://user-images.githubusercontent.com/34463290/112065726-671c7800-8b22-11eb-8330-ed5cef80a026.png)
+
 
 
 to commit changes
@@ -39,7 +40,8 @@ use
 
 then you can use git status to see if it changed
 
-*insert photo *
+Screen Shot 2021-03-22 at 3.16.23 PM![image](https://user-images.githubusercontent.com/34463290/112065708-5ec43d00-8b22-11eb-9035-77690c9afe35.png)
+
 
 
 
@@ -47,7 +49,8 @@ then you can use git status to see if it changed
 now ther are ready to be commited
 ->git commit -m "insert message / MUST HAVE OR IT WON'T WORk" -m "not unessary but for description box"
 
-*insert photo
+Screen Shot 2021-03-22 at 3.17.52 PM![image](https://user-images.githubusercontent.com/34463290/112065681-4f44f400-8b22-11eb-83d3-d2ccd54d2458.png)
+
 
 
 
