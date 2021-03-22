@@ -4,7 +4,7 @@ Some description!
 
 ## Subheader
 
-Wathc tutorial on Youtube.
+Watch tutorial on Youtube.
 
 
 
@@ -27,4 +27,31 @@ to save to commit
 ->git status
 // shows what has been insert/update but not commited
 // as "untracked files"
+
+
+*insert photo here*
+
+
+to commit changes
+use
+->git add . // for all files 
+->git add example.html // for specific files
+
+then you can use git status to see if it changed
+
+*insert photo *
+
+
+
+
+now ther are ready to be commited
+->git commit -m "insert message / MUST HAVE OR IT WON'T WORk" -m "not unessary but for description box"
+
+*insert photo
+
+
+
+## pushing 
+to push into 
+
 
