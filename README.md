@@ -6,6 +6,8 @@ Some description!
 
 Watch tutorial on Youtube.
 
+## Create SSH Keys
+ssh-keygen -t rsa -b 4069 -C "carlos.agustin218@gmail.com
 
 
 ## clone
